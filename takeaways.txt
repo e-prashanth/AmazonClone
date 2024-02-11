@@ -1,0 +1,2 @@
+--> border:none; properity is to remove the properities like color, width etc but it does not effect the 
+border-radius which is applied to the element
